@@ -1,5 +1,5 @@
 # Georgia Bastos
-![Georgia Bastos](P1061523.JPG)
+<img src="P1061523.JPG" width="150">
 
 # about me 
 (include picture)
