@@ -1,15 +1,15 @@
-# Georgia Bastos
-<img src="P1061523.JPG" width="150">
 
+<img src="P1061523.JPG" width="150" style="float: left; margin-left: 20px; margin-bottom: 20px;">
 # about me 
-(include picture)
-Curious generalist adventuring in academia. I want to understand the fundamental principles of the brain. I do it through predictive coding and psychedelics got me here. Huge human nature enthusiasts. Skilled with AI tools. If I don’t know it, I figure it out. Born and raised in Brazil. Studies in the USA. Currently in Germany. 
+Neuroscientist. Curious generalist. I want to understand the fundamental principles of the brain. I have done it through predictive coding, psychedelics and epilepsy research. Huge human nature enthusiast. Skilled with AI tools. If I don’t know it, I figure it out. Born and raised in Brazil. Studies in the USA. Currently in Bonn, Germany. 
 
 # Contact 
 email: gbastos-at-uni-bonn.de
 
 # Projects
-A Role for Somatostatin-Positive Interneurons in Neuro-Oscillatory and Information Processing Deficits in Schizophrenia. Schizophrenia Bulletin
+<img src="m_cover.jpg" width="150" style="float: left; margin-left: 20px; margin-bottom: 20px;"> <a href='https://pmc.ncbi.nlm.nih.gov/articles/PMC8379548/> A Role for Somatostatin-Positive Interneurons in Neuro-Oscillatory and Information Processing Deficits in Schizophrenia.</a>
+Review
+
 
 Top-down input modulates visual context processing through an interneuron-specific circuit. Cell Reports
 
