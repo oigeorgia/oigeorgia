@@ -7,7 +7,7 @@ Neuroscientist. Curious generalist. I want to understand the fundamental princip
 email: gbastos-at-uni-bonn.de
 
 # Projects
-<img src="m_cover.jpg" width="150" style="float: left; margin-left: 20px; margin-bottom: 20px;"> <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8379548/"> A Role for Somatostatin-Positive Interneurons in Neuro-Oscillatory and Information Processing Deficits in Schizophrenia.</a>
+<img src="m_cover.jpeg" width="150" style="float: left; margin-left: 20px; margin-bottom: 20px;"> <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8379548/"> A Role for Somatostatin-Positive Interneurons in Neuro-Oscillatory and Information Processing Deficits in Schizophrenia.</a>
 Review
 
 
