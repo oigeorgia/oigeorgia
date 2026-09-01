@@ -17,31 +17,42 @@ Georgia State University
 
 
 # Projects
-<img src="m_cover.jpeg" width="100" style="float: left; margin-right: 20px;"> <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8379548/"> A Role for Somatostatin-Positive Interneurons in Neuro-Oscillatory and Information Processing Deficits in Schizophrenia.</a>
-Review about SSTs and schizophrenia. SST interneurons and interneurons in general were a big apart of my project, as well as schizophrenia. turns out that systems neuroscience can explain the brain as a functional system instead of a module body of interactions. causality in emergent systems baby!
+<p style="display: flow-root; clear: both; margin-bottom: 24px;">
+<img src="m_cover.jpeg" width="100" style="float: left; margin-right: 20px;"> <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8379548/"> 
+A Role for Somatostatin-Positive Interneurons in Neuro-Oscillatory and Information Processing Deficits in Schizophrenia.</a>
+Review about SSTs and schizophrenia. SST interneurons and interneurons in general were a big apart of my project, as well as schizophrenia. turns out that systems neuroscience can explain the brain as a functional system instead of a module body of interactions. causality in emergent systems baby!!!!</p>
 
 
 
 
 
+<p style="display: flow-root; clear: both; margin-bottom: 24px;">
+<img src="cellreports.png" width="100" style="float: left; margin-right: 20px;"> <a href="https://pubmed.ncbi.nlm.nih.gov/37708021/"> 
+Top-down input modulates visual context processing through an interneuron-specific circuit. </a></p>
 
-<img src="cellreports.png" width="100" style="float: left; margin-right: 20px;"> <a href="https://pubmed.ncbi.nlm.nih.gov/37708021/"> Top-down input modulates visual context processing through an interneuron-specific circuit. </a>
 
+
+<p style="display: flow-root; clear: both; margin-bottom: 24px;">
 <img src="biorxiv_article_logo.jpg" width="100" style="float: left; margin-right: 20px;"> <a href="https://pubmed.ncbi.nlm.nih.gov/42367980/">
-Psychedelics relax predictive processing in the post-acute period by remodeling cortico-cortical feedback circuits </a>
+Psychedelics relax predictive processing in the post-acute period by remodeling cortico-cortical feedback circuits </a></p>
 
+
+
+<p style="display: flow-root; clear: both; margin-bottom: 24px;">
 <img src="biorxiv_article_logo.jpg" width="100" style="float: left; margin-right: 20px;"> <a href="https://pubmed.ncbi.nlm.nih.gov/41279836/">
-Mismatch negativity develops in adolescence and independently of microglia </a>
+Mismatch negativity develops in adolescence and independently of microglia </a></p>
 
+
+
+<p style="display: flow-root; clear: both; margin-bottom: 24px;">
 <img src="biorxiv_article_logo.jpg" width="100" style="float: left; margin-right: 20px;"> <a href="https://pubmed.ncbi.nlm.nih.gov/41542391/">
-Global context rapidly shapes sensory responses in V1</a>
-
+Global context rapidly shapes sensory responses in V1</a></p>
 
 # Labs
-<a href= "https://jordanphamm.blog/"> Hamm Lab (at Georgia State University) </a> PhD student 
+<a href= "https://jordanphamm.blog/"> Hamm Lab (at Georgia State University) </a> PhD student <br/> 
   Techniques: cortical circuits, calcium imaging, electrophysiology, optogenetics
   
-<a href= "https://wenzel-lab.com/"> Wenzel Lab (at Uni Bonn) </a> Post Doc 
+<a href= "https://wenzel-lab.com/"> Wenzel Lab (at Uni Bonn) </a> Post Doc <br/>
   Techniques: hippocampal circuits, calcium imaging, electrophysiology, optogenetics, behavior
   
 briefly at: <a href= "https://lrc.gsu.edu/"> Language Research Center </a>, with Dr. Sarah Brosnan
