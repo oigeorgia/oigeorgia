@@ -7,7 +7,7 @@ Neuroscientist. Curious generalist. I want to understand the fundamental princip
 email: gbastos-at-uni-bonn.de
 
 # Projects
-<img src="m_cover.jpeg" width="150" style="float: left; margin-left: 200px; margin-bottom: 200px;"> <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8379548/"> A Role for Somatostatin-Positive Interneurons in Neuro-Oscillatory and Information Processing Deficits in Schizophrenia.</a>
+<img src="m_cover.jpeg" width="100" style="float: left; margin-left: 200px; margin-bottom: 200px;"> <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8379548/"> A Role for Somatostatin-Positive Interneurons in Neuro-Oscillatory and Information Processing Deficits in Schizophrenia.</a>
 Review about SSTs and schizophrenia. SST interneurons and interneurons in general were a big apart of my project, as well as schizophrenia. turns out that systems neuroscience can explain the brain as a functional system instead of a module body of interactions. causality in emergency baby!
 
 
@@ -15,9 +15,9 @@ Review about SSTs and schizophrenia. SST interneurons and interneurons in genera
 
 
 
+<img src="cellreports.png" width="100" style="float: left; margin-left: 200px; margin-bottom: 200px;"> <a href="https://pubmed.ncbi.nlm.nih.gov/37708021/">
 
-
-Top-down input modulates visual context processing through an interneuron-specific circuit. Cell Reports
+Top-down input modulates visual context processing through an interneuron-specific circuit. </a>
 
 Psychedelics relax predictive processing in the post-acute period by remodeling cortico-cortical feedback circuits
 
