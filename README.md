@@ -15,9 +15,7 @@ Review about SSTs and schizophrenia. SST interneurons and interneurons in genera
 
 
 
-<img src="cellreports.png" width="100" style="float: left; margin-left: 200px; margin-bottom: 200px;"> <a href="https://pubmed.ncbi.nlm.nih.gov/37708021/">
-
-Top-down input modulates visual context processing through an interneuron-specific circuit. </a>
+<img src="cellreports.png" width="100" style="float: left; margin-left: 200px; margin-bottom: 200px;"> <a href="https://pubmed.ncbi.nlm.nih.gov/37708021/"> Top-down input modulates visual context processing through an interneuron-specific circuit. </a>
 
 Psychedelics relax predictive processing in the post-acute period by remodeling cortico-cortical feedback circuits
 
