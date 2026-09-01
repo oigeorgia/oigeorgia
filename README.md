@@ -1,5 +1,5 @@
 
-<img src="P1061523.JPG" width="150" style="float: left; margin-right: 40px;">
+<img src="P1061523.JPG" width="200" style="float: left; margin-right: 40px;">
 # about me 
 Neuroscientist. Curious generalist. I want to understand the fundamental principles of the brain. I have done it through predictive coding, psychedelics and epilepsy research. Huge human nature enthusiast. Skilled with AI tools. If I don’t know it, I figure it out. Born and raised in Brazil. Studies in the USA. Currently in Bonn, Germany. 
 
@@ -7,6 +7,14 @@ Techniques: cortical+hippocampal cranios, calcium imaging, optogenetics, electro
 
 # Contact 
 email: gbastos-at-uni-bonn.de
+
+# Education
+Bachelor's in Biotechnology | 2015-2019
+Pennsylvannia State University
+
+Master in Neuroscience & Doctorate in Neuroscience | 2019-2024
+Georgia State University
+
 
 # Projects
 <img src="m_cover.jpeg" width="100" style="float: left; margin-right: 20px;"> <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8379548/"> A Role for Somatostatin-Positive Interneurons in Neuro-Oscillatory and Information Processing Deficits in Schizophrenia.</a>
@@ -17,24 +25,24 @@ Review about SSTs and schizophrenia. SST interneurons and interneurons in genera
 
 
 
-<img src="cellreports.png" width="100" style="float: left; margin-right: 20px; margin-bottom: 20px;"> <a href="https://pubmed.ncbi.nlm.nih.gov/37708021/"> Top-down input modulates visual context processing through an interneuron-specific circuit. </a>
+<img src="cellreports.png" width="100" style="float: left; margin-right: 20px;"> <a href="https://pubmed.ncbi.nlm.nih.gov/37708021/"> Top-down input modulates visual context processing through an interneuron-specific circuit. </a>
 
-<img src="biorxiv_article_logo.jpg" width="100" style="float: left; margin-right: 30px; margin-bottom: 20px;"> <a href="https://pubmed.ncbi.nlm.nih.gov/42367980/">
+<img src="biorxiv_article_logo.jpg" width="100" style="float: left; margin-right: 20px;"> <a href="https://pubmed.ncbi.nlm.nih.gov/42367980/">
 Psychedelics relax predictive processing in the post-acute period by remodeling cortico-cortical feedback circuits </a>
 
-<img src="biorxiv_article_logo.jpg" width="100" style="float: left; margin-right: 30px; margin-bottom: 20px;"> <a href="https://pubmed.ncbi.nlm.nih.gov/41279836/">
+<img src="biorxiv_article_logo.jpg" width="100" style="float: left; margin-right: 20px;"> <a href="https://pubmed.ncbi.nlm.nih.gov/41279836/">
 Mismatch negativity develops in adolescence and independently of microglia </a>
 
-<img src="biorxiv_article_logo.jpg" width="100" style="float: left; margin-right: 30px; margin-bottom: 20px;"> <a href="https://pubmed.ncbi.nlm.nih.gov/41542391/">
+<img src="biorxiv_article_logo.jpg" width="100" style="float: left; margin-right: 20px;"> <a href="https://pubmed.ncbi.nlm.nih.gov/41542391/">
 Global context rapidly shapes sensory responses in V1</a>
 
 
 # Labs
-<a href= "https://jordanphamm.blog/"> Hamm Lab (at Georgia State University) </a>
-  Techniques: cortical circuits, calcium imaging, electrophysiology, 
+<a href= "https://jordanphamm.blog/"> Hamm Lab (at Georgia State University) </a> PhD student 
+  Techniques: cortical circuits, calcium imaging, electrophysiology, optogenetics
   
-<a href= "https://wenzel-lab.com/"> Wenzel Lab (at Uni Bonn) </a>
-  Techniques: hippocampal circuits, calcium imaging, electrophysiology, behavior
+<a href= "https://wenzel-lab.com/"> Wenzel Lab (at Uni Bonn) </a> Post Doc 
+  Techniques: hippocampal circuits, calcium imaging, electrophysiology, optogenetics, behavior
   
 briefly at: <a href= "https://lrc.gsu.edu/"> Language Research Center </a>, with Dr. Sarah Brosnan
 
@@ -57,25 +65,17 @@ briefly at: <a href= "https://lrc.gsu.edu/"> Language Research Center </a>, with
 
 "Frequency specific prefrontal modulation of visual cortex supports predictive processing" - Invited Speaker by Dr. Andre Bastos - Vanderbilt University - June 2022, Nashville, USA
 
-# Education
-(add pictures of school logos)
-Bachelor's in Biotechnology | 2015-2019
-Pennsylvannia State University
-
-Master in Neuroscience | 2019-2021
-Georgia State University
-
-Doctorate in Neuroscience | 2019-2024
-Georgia State University
 
 # Awards 
-Andrew Clancy Neuroscience Graduate Scholarship - Georgia State University, Neuroscience Institute
+<ul> 
+<li>Andrew Clancy Neuroscience Graduate Scholarship - Georgia State University, Neuroscience Institute</li>
 
-Brains & Behavior Fellowship - Georgia State University Brains and Behavior Program (B&B)
+<li>Brains & Behavior Fellowship - Georgia State University Brains and Behavior Program (B&B)</li>
 
-Dean's Graduate Professional Development Award - Georgia State University College of Arts & Sciences
+<li>Dean's Graduate Professional Development Award - Georgia State University College of Arts & Sciences</li>
 
-2CI Fellowship in Neuroinflammation - Georgia State university Center for Neuroinflammation and Cardiovascular Diseases (CNCD)
+<li>2CI Fellowship in Neuroinflammation - Georgia State university Center for Neuroinflammation and Cardiovascular Diseases (CNCD)</li>
+</ul>
 
 # Languages
 English
