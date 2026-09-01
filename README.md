@@ -1,5 +1,5 @@
 
-<img src="P1061523.JPG" width="150" style="float: left; margin-right: 40px; margin-bottom: 20px;">
+<img src="P1061523.JPG" width="150" style="float: left; margin-right: 40px;">
 # about me 
 Neuroscientist. Curious generalist. I want to understand the fundamental principles of the brain. I have done it through predictive coding, psychedelics and epilepsy research. Huge human nature enthusiast. Skilled with AI tools. If I don’t know it, I figure it out. Born and raised in Brazil. Studies in the USA. Currently in Bonn, Germany. 
 
@@ -9,7 +9,7 @@ Techniques: cortical+hippocampal cranios, calcium imaging, optogenetics, electro
 email: gbastos-at-uni-bonn.de
 
 # Projects
-<img src="m_cover.jpeg" width="100" style="float: left; margin-right: 20px; margin-bottom: 20px;"> <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8379548/"> A Role for Somatostatin-Positive Interneurons in Neuro-Oscillatory and Information Processing Deficits in Schizophrenia.</a>
+<img src="m_cover.jpeg" width="100" style="float: left; margin-right: 20px;"> <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8379548/"> A Role for Somatostatin-Positive Interneurons in Neuro-Oscillatory and Information Processing Deficits in Schizophrenia.</a>
 Review about SSTs and schizophrenia. SST interneurons and interneurons in general were a big apart of my project, as well as schizophrenia. turns out that systems neuroscience can explain the brain as a functional system instead of a module body of interactions. causality in emergent systems baby!
 
 
