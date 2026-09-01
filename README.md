@@ -1,4 +1,5 @@
 # Georgia Bastos
+![Georgia Bastos](P1061523.JPG)
 
 # about me 
 (include picture)
