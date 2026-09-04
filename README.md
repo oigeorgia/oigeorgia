@@ -1,14 +1,36 @@
 
-<img src="P1061523.JPG" width="200" style="float: left; margin-right: 40px;">
-# About Me
-Neuroscientist. Curious generalist. I want to understand the fundamental principles of the brain. I have done it through predictive coding, psychedelics and epilepsy research. Huge human nature enthusiast. Skilled with AI tools. If I don’t know it, I figure it out. Born and raised in Brazil. Studies in the USA. Currently in Bonn, Germany. 
+<style>
+  .wrapper {
+    max-width: 850px;
+  }
 
-Techniques: cortical+hippocampal cranios, calcium imaging, optogenetics, electrophysiology
+  body,
+  .page-content p,
+  .page-content li,
+  .home p,
+  .home li {
+    line-height: 1.7;
+  }
+</style>
 
-# Contact
-email: gbastos-at-uni-bonn.de
+<h2 style="border-top: 1px solid #dddddd; padding-top: 18px; margin-top: 30px;">About Me</h2>
 
-# Current project
+<div style="display: flex; align-items: center; gap: 28px; margin: 20px 0 12px;">
+  <div style="flex-shrink: 0; display: flex; align-items: center; justify-content: center; width: 200px;">
+    <img src="P1061523.JPG" alt="Georgia Bastos" width="200" style="width: 200px; height: auto; display: block; margin: 0;">
+  </div>
+
+  <div style="flex: 1; min-width: 0;">
+    <p style="margin: 0 0 12px;">
+      Neuroscientist. Curious generalist. I want to understand the fundamental principles of the brain. I have done it through predictive coding, psychedelics and epilepsy research. Huge human nature enthusiast. Skilled with AI tools. If I don’t know it, I figure it out. Born and raised in Brazil. Trained in the United States. Currently in Bonn, Germany.
+    </p>
+
+    <p style="margin: 0 0 6px;"><b>Techniques:</b> cortical+hippocampal cranios, calcium imaging, optogenetics, electrophysiology</p>
+    <p style="margin: 0;"><b>Contact:</b> gbastos-at-uni-bonn.de</p>
+  </div>
+</div>
+
+<h2 style="border-top: 1px solid #dddddd; padding-top: 18px; margin-top: 30px;">Current Project</h2>
 
 <div style="display: flex; flex-wrap: nowrap; gap: 20px; align-items: stretch; margin: 20px 0 30px;">
 
@@ -45,33 +67,34 @@ email: gbastos-at-uni-bonn.de
 
 
 
-# Past Projects
+<h2 style="border-top: 1px solid #dddddd; padding-top: 18px; margin-top: 30px;">Past Projects</h2>
 
 <!-- PROJECT 1 -->
-<div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: flex-start; padding: 20px 0; border-bottom: 1px solid #dddddd;">
+<div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: flex-start; padding: 24px 0 24px; border-top: 1px solid #dddddd; border-bottom: 1px solid #dddddd;">
 
   <img src="m_cover.jpeg"
        alt="Cover of the somatostatin interneuron review"
        width="90"
-       style="height: auto; flex-shrink: 0;">
+       height="90"
+       style="height: 90px; width: 90px; object-fit: cover; flex-shrink: 0;">
 
   <div style="flex: 1 1 300px;">
-    <h3 style="margin-top: 0;">
+    <h3 style="margin-top: 0; margin-bottom: 8px; font-size: 1.1rem; line-height: 1.4;">
       Somatostatin interneurons in information-processing deficits
     </h3>
 
-    <p>
+    <p style="margin: 0 0 8px;">
       A review connecting SST-interneuron dysfunction, disrupted neural
       oscillations, and impaired contextual information processing in
       schizophrenia.
     </p>
 
-    <p style="margin-bottom: 0;">
-      <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8379548/">
+    <p style="margin: 0; color: #666666; font-size: 0.95rem;">
+      <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8379548/" style="color: #666666; text-decoration: none;">
         Read
       </a>
       &nbsp;&nbsp;·&nbsp;&nbsp;
-      <a href="SST.pdf" download>
+      <a href="SST.pdf" download style="color: #666666; text-decoration: none;">
         PDF
       </a>
     </p>
@@ -80,31 +103,32 @@ email: gbastos-at-uni-bonn.de
 
 
 <!-- PROJECT 2 -->
-<div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: flex-start; padding: 20px 0; border-bottom: 1px solid #dddddd;">
+<div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: flex-start; padding: 24px 0; border-bottom: 1px solid #dddddd;">
 
   <img src="cellreports.png"
        alt="Cover of the Cell Reports paper"
        width="90"
-       style="height: auto; flex-shrink: 0;">
+       height="90"
+       style="height: 90px; width: 90px; object-fit: cover; flex-shrink: 0;">
 
   <div style="flex: 1 1 300px;">
-    <h3 style="margin-top: 0;">
+    <h3 style="margin-top: 0; margin-bottom: 8px; font-size: 1.1rem; line-height: 1.4;">
       Top-down input modulates visual context processing through an
       interneuron-specific circuit
     </h3>
 
-    <p>
+    <p style="margin: 0 0 8px;">
       This study shows how higher visual areas coordinate with local SST and
       VIP interneurons to shape contextual processing in the primary visual
       cortex.
     </p>
 
-    <p style="margin-bottom: 0;">
-      <a href="https://pubmed.ncbi.nlm.nih.gov/37708021/">
+    <p style="margin: 0; color: #666666; font-size: 0.95rem;">
+      <a href="https://pubmed.ncbi.nlm.nih.gov/37708021/" style="color: #666666; text-decoration: none;">
         Read
       </a>
       &nbsp;&nbsp;·&nbsp;&nbsp;
-      <a href="topdown.pdf" download>
+      <a href="topdown.pdf" download style="color: #666666; text-decoration: none;">
         PDF
       </a>
     </p>
@@ -113,30 +137,31 @@ email: gbastos-at-uni-bonn.de
 
 
 <!-- PROJECT 3 -->
-<div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: flex-start; padding: 20px 0; border-bottom: 1px solid #dddddd;">
+<div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: flex-start; padding: 24px 0; border-bottom: 1px solid #dddddd;">
 
   <img src="biorxiv_article_logo.jpg"
        alt="Cover of the psychedelics preprint"
        width="90"
-       style="height: auto; flex-shrink: 0;">
+       height="90"
+       style="height: 90px; width: 90px; object-fit: cover; flex-shrink: 0;">
 
   <div style="flex: 1 1 300px;">
-    <h3 style="margin-top: 0;">
+    <h3 style="margin-top: 0; margin-bottom: 8px; font-size: 1.1rem; line-height: 1.4;">
       Psychedelics relax predictive processing in the post-acute period
     </h3>
 
-    <p>
+    <p style="margin: 0 0 8px;">
       Evidence from humans and mice suggests that familiar stimuli remain more
       surprising after psychedelic exposure, consistent with a temporary
       relaxation of top-down predictions.
     </p>
 
-    <p style="margin-bottom: 0;">
-      <a href="https://pubmed.ncbi.nlm.nih.gov/42367980/">
+    <p style="margin: 0; color: #666666; font-size: 0.95rem;">
+      <a href="https://pubmed.ncbi.nlm.nih.gov/42367980/" style="color: #666666; text-decoration: none;">
         Read
       </a>
       &nbsp;&nbsp;·&nbsp;&nbsp;
-      <a href="psychedelics.pdf" download>
+      <a href="psychedelics.pdf" download style="color: #666666; text-decoration: none;">
         PDF
       </a>
     </p>
@@ -145,30 +170,31 @@ email: gbastos-at-uni-bonn.de
 
 
 <!-- PROJECT 4 -->
-<div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: flex-start; padding: 20px 0; border-bottom: 1px solid #dddddd;">
+<div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: flex-start; padding: 24px 0; border-bottom: 1px solid #dddddd;">
 
   <img src="biorxiv_article_logo.jpg"
        alt="Cover of the mismatch negativity preprint"
        width="90"
-       style="height: auto; flex-shrink: 0;">
+       height="90"
+       style="height: 90px; width: 90px; object-fit: cover; flex-shrink: 0;">
 
   <div style="flex: 1 1 300px;">
-    <h3 style="margin-top: 0;">
+    <h3 style="margin-top: 0; margin-bottom: 8px; font-size: 1.1rem; line-height: 1.4;">
       Mismatch negativity develops in adolescence and independently of
       microglia
     </h3>
 
-    <p>
+    <p style="margin: 0 0 8px;">
       Context-sensitive neural responses emerge during adolescence, while
       microglial depletion does not prevent their development.
     </p>
 
-    <p style="margin-bottom: 0;">
-      <a href="https://pubmed.ncbi.nlm.nih.gov/41279836/">
+    <p style="margin: 0; color: #666666; font-size: 0.95rem;">
+      <a href="https://pubmed.ncbi.nlm.nih.gov/41279836/" style="color: #666666; text-decoration: none;">
         Read
       </a>
       &nbsp;&nbsp;·&nbsp;&nbsp;
-      <a href="microglia.pdf" download>
+      <a href="microglia.pdf" download style="color: #666666; text-decoration: none;">
         PDF
       </a>
     </p>
@@ -177,30 +203,31 @@ email: gbastos-at-uni-bonn.de
 
 
 <!-- PROJECT 5 -->
-<div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: flex-start; padding: 20px 0;">
+<div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: flex-start; padding: 24px 0;">
 
   <img src="biorxiv_article_logo.jpg"
        alt="Cover of the global context preprint"
        width="90"
-       style="height: auto; flex-shrink: 0;">
+       height="90"
+       style="height: 90px; width: 90px; object-fit: cover; flex-shrink: 0;">
 
   <div style="flex: 1 1 300px;">
-    <h3 style="margin-top: 0;">
+    <h3 style="margin-top: 0; margin-bottom: 8px; font-size: 1.1rem; line-height: 1.4;">
       Global context rapidly shapes sensory responses in V1
     </h3>
 
-    <p>
+    <p style="margin: 0 0 8px;">
       This work shows that primary visual cortex responds not only to local
       stimulus patterns, but also to broader patterns that provide global
       context.
     </p>
 
-    <p style="margin-bottom: 0;">
-      <a href="https://pubmed.ncbi.nlm.nih.gov/41542391/">
+    <p style="margin: 0; color: #666666; font-size: 0.95rem;">
+      <a href="https://pubmed.ncbi.nlm.nih.gov/41542391/" style="color: #666666; text-decoration: none;">
         Read
       </a>
       &nbsp;&nbsp;·&nbsp;&nbsp;
-      <a href="global.pdf" download>
+      <a href="global.pdf" download style="color: #666666; text-decoration: none;">
         PDF
       </a>
     </p>
@@ -208,7 +235,7 @@ email: gbastos-at-uni-bonn.de
 </div>
 
 
-<h2>Background</h2>
+<h2 style="border-top: 1px solid #dddddd; padding-top: 18px; margin-top: 30px;">Background</h2>
 
 <div style="display: flex; flex-wrap: wrap; gap: 40px; padding: 20px 0 30px;">
 
@@ -285,7 +312,7 @@ email: gbastos-at-uni-bonn.de
 </div>
 
 
-# Conferences
+<h2 style="border-top: 1px solid #dddddd; padding-top: 18px; margin-top: 30px;">Conferences</h2>
 <ul> 
   <li>Cold Spring Harbor Laboratory Conference on Neuronal Circuits, 2022</li>
   <li>Society of Biological Psychiatry's Annual Meeting, 2022</li>
@@ -298,45 +325,45 @@ email: gbastos-at-uni-bonn.de
   <li> Gordon Reasearch Conference - Mechanism for Epilepsy and Neuronal Synchronization, Barcelona, 2026 </li> 
 </ul>
 
-# Recent Presentations
+<h2 style="border-top: 1px solid #dddddd; padding-top: 18px; margin-top: 30px;">Recent Presentations</h2>
 
-<div style="display: flex; flex-direction: column; gap: 18px; margin: 20px 0;">
+<div style="display: flex; flex-direction: column; margin: 0;">
 
-  <div style="display: flex; align-items: center; gap: 18px; padding: 14px 16px; border: 1px solid #e5e7eb; border-radius: 14px; background: #f9fafb; box-shadow: 0 2px 8px rgba(0,0,0,0.04);">
-    <img src="bernstein.jpeg" alt="Bernstein conference" style="width: 170px; height: 120px; object-fit: cover; border-radius: 10px; border: 1px solid #dfe3e8; flex-shrink: 0;">
+  <div style="display: flex; gap: 20px; align-items: center; padding: 20px 0; border-top: 1px solid #dddddd;">
+    <img src="bernstein.jpeg" alt="Bernstein Conference" style="width: 140px; height: 95px; object-fit: cover; flex-shrink: 0;">
     <div>
-      <p style="margin: 0 0 6px; font-weight: 600; line-height: 1.4;">“Top-down modulation of visual context processing”</p>
-      <p style="margin: 0; line-height: 1.5; color: #4b5563;">Bernstein Conference, Frankfurt, Germany — September 2025</p>
+      <h3 style="margin: 0 0 6px; font-size: 1rem; line-height: 1.4;">Top-down modulation of visual context processing</h3>
+      <p style="margin: 0; color: #666666;">Bernstein Conference · Frankfurt, Germany · September 2025</p>
     </div>
   </div>
 
-  <div style="display: flex; align-items: center; gap: 18px; padding: 14px 16px; border: 1px solid #e5e7eb; border-radius: 14px; background: #f9fafb; box-shadow: 0 2px 8px rgba(0,0,0,0.04);">
-    <img src="retreat.JPG" alt="Research retreat" style="width: 170px; height: 120px; object-fit: cover; border-radius: 10px; border: 1px solid #dfe3e8; flex-shrink: 0;">
+  <div style="display: flex; gap: 20px; align-items: center; padding: 20px 0; border-top: 1px solid #dddddd;">
+    <img src="retreat.JPG" alt="Research retreat" style="width: 140px; height: 95px; object-fit: cover; flex-shrink: 0;">
     <div>
-      <p style="margin: 0 0 6px; font-weight: 600; line-height: 1.4;">“Building and breaking context in the visual cortex: top-down modulation of visual context processing and its disruption under psychedelic drugs”</p>
-      <p style="margin: 0; line-height: 1.5; color: #4b5563;">International Max Planck Research School Retreat, Remscheid, Germany — October 2025</p>
+      <h3 style="margin: 0 0 6px; font-size: 1rem; line-height: 1.4;">Building and breaking context in the visual cortex</h3>
+      <p style="margin: 0; color: #666666;">International Max Planck Research School Retreat · Remscheid, Germany · October 2025</p>
     </div>
   </div>
 
-  <div style="display: flex; align-items: center; gap: 18px; padding: 14px 16px; border: 1px solid #e5e7eb; border-radius: 14px; background: #f9fafb; box-shadow: 0 2px 8px rgba(0,0,0,0.04);">
-    <img src="egypt.jpeg" alt="DAAD summer school in Cairo" style="width: 170px; height: 120px; object-fit: cover; border-radius: 10px; border: 1px solid #dfe3e8; flex-shrink: 0;">
+  <div style="display: flex; gap: 20px; align-items: center; padding: 20px 0; border-top: 1px solid #dddddd;">
+    <img src="egypt.jpeg" alt="DAAD summer school in Cairo" style="width: 140px; height: 95px; object-fit: cover; flex-shrink: 0;">
     <div>
-      <p style="margin: 0 0 6px; font-weight: 600; line-height: 1.4;">“Spreading depolarization as a key disease factor in epilepsy”</p>
-      <p style="margin: 0; line-height: 1.5; color: #4b5563;">DAAD Summer School, Cairo, Egypt — June 2026</p>
+      <h3 style="margin: 0 0 6px; font-size: 1rem; line-height: 1.4;">Spreading depolarization as a key disease factor in epilepsy</h3>
+      <p style="margin: 0; color: #666666;">DAAD Summer School · Cairo, Egypt · June 2026</p>
     </div>
   </div>
 
-  <div style="display: flex; align-items: center; gap: 18px; padding: 14px 16px; border: 1px solid #e5e7eb; border-radius: 14px; background: #f9fafb; box-shadow: 0 2px 8px rgba(0,0,0,0.04);">
-    <img src="diss_all.jpeg" alt="Dissertation defense" style="width: 170px; height: 120px; object-fit: cover; border-radius: 10px; border: 1px solid #dfe3e8; flex-shrink: 0;">
+  <div style="display: flex; gap: 20px; align-items: center; padding: 20px 0; border-top: 1px solid #dddddd; border-bottom: 1px solid #dddddd;">
+    <img src="diss_all.jpeg" alt="Dissertation defense" style="width: 140px; height: 95px; object-fit: cover; flex-shrink: 0;">
     <div>
-      <p style="margin: 0 0 6px; font-weight: 600; line-height: 1.4;">“Circuit, cell and molecular mechanisms for context processing”</p>
-      <p style="margin: 0; line-height: 1.5; color: #4b5563;">Dissertation Defense, Georgia State University, Atlanta, USA — July 2024</p>
+      <h3 style="margin: 0 0 6px; font-size: 1rem; line-height: 1.4;">Circuit, cell and molecular mechanisms for context processing</h3>
+      <p style="margin: 0; color: #666666;">Dissertation Defense · Georgia State University · July 2024</p>
     </div>
   </div>
 
 </div>
 
-# Awards
+<h2 style="border-top: 1px solid #dddddd; padding-top: 18px; margin-top: 30px;">Awards</h2>
 <ul> 
 <li>Andrew Clancy Neuroscience Graduate Scholarship - Georgia State University, Neuroscience Institute</li>
 
@@ -347,12 +374,12 @@ email: gbastos-at-uni-bonn.de
 <li>2CI Fellowship in Neuroinflammation - Georgia State university Center for Neuroinflammation and Cardiovascular Diseases (CNCD)</li>
 </ul>
 
-# Languages
+<h2 style="border-top: 1px solid #dddddd; padding-top: 18px; margin-top: 30px;">Languages</h2>
 English <br /> Portuguese <br /> German (B1)<br />
 
 
 <p>
-<h2>Writing</h2>
+<h2 style="border-top: 1px solid #dddddd; padding-top: 18px; margin-top: 30px;">Writing</h2>
 
 <div style="padding: 20px 0; border-bottom: 1px solid #dddddd;">
 
