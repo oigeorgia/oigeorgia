@@ -13,7 +13,7 @@
   }
 </style>
 
-<h2 style="border-top: 1px solid #dddddd; padding-top: 18px; margin-top: 30px;">About Me</h2>
+<h2 style="border-top: 0px solid #dddddd; padding-top: 18px; margin-top: 30px;">About Me</h2>
 
 <div style="display: flex; align-items: center; gap: 28px; margin: 20px 0 12px;">
   <div style="flex-shrink: 0; display: flex; align-items: center; justify-content: center; width: 200px;">
@@ -29,6 +29,18 @@
     <p style="margin: 0;"><b>Contact:</b> gbastos-at-uni-bonn.de</p>
   </div>
 </div>
+
+<p class="contact-line" style="margin: 14px 0 0; color: #333; line-height: 1.6;">
+  <svg viewBox="0 0 24 24" width="18" height="18" aria-label="Spotify" style="vertical-align: middle; margin-right: 8px; fill: #1DB954; display: inline-block;">
+    <circle cx="12" cy="12" r="12" fill="#1DB954"></circle>
+    <circle cx="12" cy="12" r="7.2" fill="#ffffff" opacity="0.18"></circle>
+    <path d="M17.6 15.6c-.2.3-.6.4-.9.2-2.4-1.5-5.4-1.8-9-.9-.3.1-.7-.1-.8-.4-.1-.3.1-.7.4-.8 4-.9 7.4-.6 10.1 1 .3.2.4.6.2.9zm1.1-2.8c-.3.4-.8.5-1.2.2-2.8-1.7-7.1-2.2-10.4-1.2-.4.1-.8-.1-.9-.5-.1-.4.1-.8.5-.9 3.8-1.2 8.8-.6 12.1 1.5.4.2.5.8.2 1.2zm.1-2.9c-3.3-2-8.7-2.2-11.8-1.2-.5.1-.9-.2-1-.7-.1-.5.2-.9.7-1 3.7-1.2 9.5-.9 13.1 1.4.4.3.6.8.3 1.2-.3.3-.8.5-1.3.3z" fill="#ffffff"></path>
+  </svg>
+  Check out my appearance on
+  <a href="https://open.spotify.com/episode/6TPZACMdm2qDWuIeMqjT8i?si=2Yz8i4cqRpSv5LbRNjgH7w&utm_source=copy-link" target="_blank" rel="noopener" style="color: #111; text-decoration: underline;">
+    a podcast where I share my ideas about consciousness, spirituality, and the brain →
+  </a>
+</p>
 
 <h2 style="border-top: 1px solid #dddddd; padding-top: 18px; margin-top: 30px;">Current Project</h2>
 
@@ -244,16 +256,22 @@
 
     <h3 style="margin-top: 0;">Education</h3>
 
-    <div style="padding: 12px 0; border-bottom: 1px solid #dddddd;">
-      <strong>MS and PhD in Neuroscience</strong><br>
-      Georgia State University<br>
-      <span style="color: #666666;">2019–2024</span>
+    <div style="padding: 12px 0; border-bottom: 1px solid #dddddd; display: flex; align-items: center; gap: 12px;">
+      <img src="GSU.jpeg" alt="Georgia State University logo" style="width: 42px; height: 42px; object-fit: contain; flex-shrink: 0;">
+      <div>
+        <strong>MS and PhD in Neuroscience</strong><br>
+        Georgia State University<br>
+        <span style="color: #666666;">2019–2024</span>
+      </div>
     </div>
 
-    <div style="padding: 12px 0;">
-      <strong>BS in Biotechnology</strong><br>
-      Pennsylvania State University<br>
-      <span style="color: #666666;">2015–2019</span>
+    <div style="padding: 12px 0; display: flex; align-items: center; gap: 12px;">
+      <img src="psu.png" alt="Pennsylvania State University logo" style="width: 42px; height: 42px; object-fit: contain; flex-shrink: 0;">
+      <div>
+        <strong>BS in Biotechnology</strong><br>
+        Pennsylvania State University<br>
+        <span style="color: #666666;">2015–2019</span>
+      </div>
     </div>
 
   </div>
@@ -312,19 +330,6 @@
 </div>
 
 
-<h2 style="border-top: 1px solid #dddddd; padding-top: 18px; margin-top: 30px;">Conferences</h2>
-<ul> 
-  <li>Cold Spring Harbor Laboratory Conference on Neuronal Circuits, 2022</li>
-  <li>Society of Biological Psychiatry's Annual Meeting, 2022</li>
-  <li>Society of Neuroscience Annual Meeting, 2022</li>
-  <li>Gordon Research Seminar & Conference - Neuronal circuit for Modulation of Behavior, 2023</li>
-  <li>Bernstein Conference, 2025</li>
-  <li>Deutschen Gesellschaft für Neurologie, 2025</li>
-  <li>International Conference on Spreading Depolarization, Windsor, 2025</li>
-  <li> Deutscher Akademischer Austauschdienst (DAAD) Summer School, Cairo, 2026 </li>
-  <li> Gordon Reasearch Conference - Mechanism for Epilepsy and Neuronal Synchronization, Barcelona, 2026 </li> 
-</ul>
-
 <h2 style="border-top: 1px solid #dddddd; padding-top: 18px; margin-top: 30px;">Recent Presentations</h2>
 
 <div style="display: flex; flex-direction: column; margin: 0;">
@@ -363,23 +368,50 @@
 
 </div>
 
-<h2 style="border-top: 1px solid #dddddd; padding-top: 18px; margin-top: 30px;">Awards</h2>
-<ul> 
-<li>Andrew Clancy Neuroscience Graduate Scholarship - Georgia State University, Neuroscience Institute</li>
+<p class="contact-line" style="margin-top: 18px; line-height: 1.6; color: #333;">
+  <svg viewBox="0 0 24 24" width="18" height="18" aria-label="YouTube" style="vertical-align: middle; margin-right: 8px; display: inline-block;">
+    <path d="M23.5 6.2c-.3-1.1-1.2-2-2.3-2.3C19.3 3.4 12 3.4 12 3.4s-7.3 0-9.2.5C1.7 4.2.8 5.1.5 6.2.4 7.9.4 12 .4 12s0 4.1.1 5.8c.3 1.1 1.2 2 2.3 2.3 1.9.5 9.2.5 9.2.5s7.3 0 9.2-.5c1.1-.3 2-1.2 2.3-2.3.1-1.7.1-5.8.1-5.8s0-4.1-.1-5.8zM9.9 15.5V8.5l6.1 3.5-6.1 3.5z" fill="#FF0000"></path>
+  </svg>
+  Also, check out this
+  <a href="https://www.youtube.com/watch?v=1emHWHBzvaw" target="_blank" rel="noopener" style="color: #111; text-decoration: underline;">
+    2022 science outreach video, where I explain my research →
+  </a>
+</p>
 
-<li>Brains & Behavior Fellowship - Georgia State University Brains and Behavior Program (B&B)</li>
+<div style="display: flex; flex-wrap: wrap; gap: 40px; padding-top: 20px; margin-top: 10px;">
+  <div style="flex: 1 1 320px;">
+    <h2 style="border-top: 1px solid #dddddd; padding-top: 18px; margin-top: 0;">Conferences</h2>
+    <ul style="margin-top: 12px; padding-left: 18px; line-height: 1.7;">
+      <li>Cold Spring Harbor Laboratory Conference on Neuronal Circuits, 2022</li>
+      <li>Society of Biological Psychiatry's Annual Meeting, 2022</li>
+      <li>Society of Neuroscience Annual Meeting, 2022</li>
+      <li>Gordon Research Seminar & Conference - Neuronal circuit for Modulation of Behavior, 2023</li>
+      <li>Bernstein Conference, 2025</li>
+      <li>Deutschen Gesellschaft für Neurologie, 2025</li>
+      <li>International Conference on Spreading Depolarization, Windsor, 2025</li>
+      <li>Deutscher Akademischer Austauschdienst (DAAD) Summer School, Cairo, 2026</li>
+      <li>Gordon Reasearch Conference - Mechanism for Epilepsy and Neuronal Synchronization, Barcelona, 2026</li>
+    </ul>
+  </div>
 
-<li>Dean's Graduate Professional Development Award - Georgia State University College of Arts & Sciences</li>
+  <div style="flex: 1 1 320px;">
+    <h2 style="border-top: 1px solid #dddddd; padding-top: 18px; margin-top: 0;">Awards</h2>
+    <ul style="margin-top: 12px; padding-left: 18px; line-height: 1.7;">
+      <li>Andrew Clancy Neuroscience Graduate Scholarship - Georgia State University, Neuroscience Institute</li>
+      <li>Brains & Behavior Fellowship - Georgia State University Brains and Behavior Program (B&B)</li>
+      <li>Dean's Graduate Professional Development Award - Georgia State University College of Arts & Sciences</li>
+      <li>2CI Fellowship in Neuroinflammation - Georgia State university Center for Neuroinflammation and Cardiovascular Diseases (CNCD)</li>
+    </ul>
+  </div>
+</div>
 
-<li>2CI Fellowship in Neuroinflammation - Georgia State university Center for Neuroinflammation and Cardiovascular Diseases (CNCD)</li>
-</ul>
 
 <h2 style="border-top: 1px solid #dddddd; padding-top: 18px; margin-top: 30px;">Languages</h2>
 English <br /> Portuguese <br /> German (B1)<br />
 
 
 <p>
-<h2 style="border-top: 1px solid #dddddd; padding-top: 18px; margin-top: 30px;">Writing</h2>
+<h2 style="border-top: 1px solid #dddddd; padding-top: 18px; margin-top: 30px;">Writings</h2>
 
 <div style="padding: 20px 0; border-bottom: 1px solid #dddddd;">
 
@@ -399,7 +431,3 @@ English <br /> Portuguese <br /> German (B1)<br />
 
 </div>
 
-(link to a page with writing and poems)
-(podcast!)
-dissertation
-context processing, what is it 
